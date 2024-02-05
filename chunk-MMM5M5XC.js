@@ -489,7 +489,7 @@ Clicking on the \`<headwind-checkbox>\` element toggles its checked state.
 
 | Command | Target | Description |
 | ---- | ---- | ---- |
-| \`space\` | \`<headwind-checkbox>\` | Toggle the checked state. |`,Me=`# API
+| \`Space\` | \`<headwind-checkbox>\` | Toggle the checked state. |`,Me=`# API
 
 ## HeadwindCheckboxComponent
 
